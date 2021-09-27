@@ -1,3 +1,3 @@
 # Individual_assignment
 
-hello wrold!!!
+Hello world!!!
